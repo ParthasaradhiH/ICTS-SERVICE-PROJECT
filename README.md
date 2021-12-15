@@ -2,7 +2,7 @@
 Java Project
 <div align="center">
 
-<img src=""/>
+<img src="https://github.com/ParthasaradhiH/ICTS-SERVICE-PROJECT/blob/main/Assets/img1.png"/>
 
 </div>
       
@@ -14,7 +14,7 @@ Java Project
 
 <div align="center">
 
-<img src="" alt="drawing"/>
+<img src="https://github.com/ParthasaradhiH/ICTS-SERVICE-PROJECT/blob/main/Assets/img2.png" alt="drawing"/>
 
 </div>
 
